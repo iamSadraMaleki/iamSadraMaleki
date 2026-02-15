@@ -1,11 +1,10 @@
-# 👋 Hi, I'm [Sadra Maleki]
+# 👋 Hi, I'm Sadra Maleki
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=System.out.println(%22Building+Secure+Systems...%22);Initializing+Spring+Boot+Engine...;Deploying+React+Interface...;Security+Layer+Activated+🔐" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Building+Secure+Systems...;Spring+Boot+Specialist;React+Developer;Security+Enthusiast;Tech+Author+%26+Java+Instructor" />
 </p>
 
-
-veloper | Spring Boot & React
+## 💻 Full-Stack Developer | Spring Boot & React
 
 ---
 
@@ -28,7 +27,7 @@ veloper | Spring Boot & React
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -57,6 +56,7 @@ veloper | Spring Boot & React
   <img src="https://img.shields.io/badge/Clean_Code-3DDC84?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
+---
 
 ### 🎯 Goals
 Building secure, scalable and impactful software systems.
