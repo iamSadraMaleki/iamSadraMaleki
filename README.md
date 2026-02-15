@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2200&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=950&lines=%3E+Booting+Developer_Profile...;%3E+Sadra+Maleki;%3E+Fullstack+Developer;%3E+Spring_Boot+%E2%9C%94;%3E+React+%E2%9C%94;%3E+Security+%E2%9C%94" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&duration=700&pause=200&color=39FF14&background=000000&center=true&vCenter=true&width=500&lines=%3E+Status%3A+ONLINE_;%3E+Status%3A+ONLINE" />
-</p>
-
-
-
-
 ## 💻 Full-Stack Developer | Spring Boot & React
 
 ---
