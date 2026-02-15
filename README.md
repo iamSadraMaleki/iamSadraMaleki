@@ -1,11 +1,9 @@
 # 👋 Hi, I'm [Sadra Maleki]
 
-## 💻 Full-Stack Developer | Spring Boot & React
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+⚙️;Spring+Boot+Specialist+☕;React+Developer+⚛️;Security+Enthusiast+🔐;Tech+Author+%26+Java+Instructor+📚" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=System.out.println(%22Building+Secure+Systems...%22);Initializing+Spring+Boot+Engine...;Deploying+React+Interface...;Security+Layer+Activated+🔐" />
 </p>
+
 
 veloper | Spring Boot & React
 
