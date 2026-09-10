@@ -95,11 +95,11 @@ I care about:
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-<p>
-  <a href="https://www.linkedin.com/in/sadramaleki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/iamSadraMaleki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
 ---
