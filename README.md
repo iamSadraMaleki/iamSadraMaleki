@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Sadra Maleki
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Full+Product+Builder;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;Turning+ideas+into+products+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Full+Product+Builder;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
 </p>
 
-```typescript
-const sadra: Developer = {
-  role: "Web Developer",
-  location: "Iran 🇮🇷",
-  company: "Freelance | Self-Employed",
-  education: "University of Bonab",
-  stack: ["React", "Next.js", "NestJS", "Node.js", "PostgreSQL"],
-  focus: ["Frontend Architecture", "Product Thinking", "System Design"],
-  mission: "Turning ideas into products that solve real problems",
-  goal: "Growing from building software to leading its development",
-  status: "🟢 Open to collaboration & new challenges",
-};
-```
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadramaleki&theme=tokyonight" />
+</p>
 
-> *"Software development, for me, is more than writing code — it's the process of turning ideas into products that solve real problems."*
+### 🧑‍💻 Quick Info
 
----
+| | |
+|---|---|
+| 💼 **Role** | Web Developer |
+| 📍 **Location** | Iran 🇮🇷 |
+| 🏢 **Company** | Freelance · Self-Employed |
+| 🎓 **Education** | University of Bonab |
+| 🟢 **Status** | Open to collaboration |
+
+**⚙️ Stack** — React · Next.js · NestJS · Node.js · PostgreSQL  
+**🎯 Focus** — Frontend Architecture · Product Thinking · System Design  
+**🚀 Mission** — Turning ideas into products that solve real problems
 
 ## 🚀 About Me
 
