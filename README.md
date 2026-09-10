@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Sadra Maleki
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Full+Product+Builder;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;Turning+ideas+into+products+that+solve+real+problems" alt="Typing SVG" />
+</p>
+
 ```typescript
-const sadra = {
+const sadra: Developer = {
   role: "Web Developer",
   location: "Iran 🇮🇷",
   company: "Freelance | Self-Employed",
@@ -10,6 +14,7 @@ const sadra = {
   focus: ["Frontend Architecture", "Product Thinking", "System Design"],
   mission: "Turning ideas into products that solve real problems",
   goal: "Growing from building software to leading its development",
+  status: "🟢 Open to collaboration & new challenges",
 };
 ```
 
@@ -23,10 +28,28 @@ I enjoy working across the **entire product development journey** — from under
 
 Every project is an opportunity to improve not only the software itself, but also the way people interact with it.
 
-- 🧠 I'm especially interested in **frontend architecture**, **product thinking**, and transforming raw ideas into **intuitive user experiences**.
-- ⚡ I'm a fast learner who enjoys exploring new technologies, refining ideas, and continuously improving both technical and problem-solving skills.
-- 🤝 I believe great software is created through **collaboration**, **thoughtful design**, and **constant iteration**.
-- 🎯 My long-term goal is to grow from **building software** to **leading its development** — bridging technical teams, shaping products, and helping transform ideas into successful solutions.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 What I Focus On
+- 🧠 **Frontend Architecture** — scalable, component-driven design
+- 💡 **Product Thinking** — solving the *right* problem, not just any problem
+- 🎨 **User Experience** — turning raw ideas into intuitive interfaces
+- 🏗️ **System Design** — from database schema to deployment
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ How I Work
+- 🚀 Fast learner — exploring new tech, refining ideas
+- 🤝 Believe in **collaboration** and **thoughtful design**
+- 🔄 **Constant iteration** — in software and in myself
+- 📈 Growing from *building software* to *leading its development*
+
+</td>
+</tr>
+</table>
 
 > *I'm not trying to look like a senior engineer today — I'm focused on becoming one through continuous learning, real-world experience, and building meaningful products.*
 
@@ -74,32 +97,28 @@ Every project is an opportunity to improve not only the software itself, but als
 Understand → Analyze → Design → Build → Deploy → Improve
 ```
 
-I care about:
-- 🎯 **Product thinking** — not just writing code, but solving the right problem
-- 🧩 **Clean architecture** — scalable, maintainable, and readable
-- 🎨 **User experience** — turning raw ideas into intuitive interfaces
-- 🔄 **Continuous improvement** — in both the software and myself
-
 ---
 
 ## 📊 GitHub Stats
 
+<!-- STATS_START -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadramaleki&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadramaleki&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadramaleki&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
+<!-- STATS_END -->
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect
 
-<p align="center">
-  <img src="./profile/stats.svg" height="165" />
-  <img src="./profile/top-langs.svg" height="165" />
+<p>
+  <a href="https://github.com/sadramaleki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sadramaleki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
