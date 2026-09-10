@@ -1,26 +1,11 @@
 # 👋 Hi, I'm Sadra Maleki
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Full+Product+Builder;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
+  <img src="./assets/hero.svg" alt="Sadra Maleki — Full Product Builder" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadramaleki&theme=tokyonight" />
+  <img src="./assets/dashboard.svg" alt="System readout card" width="100%" />
 </p>
-
-### 🧑‍💻 Quick Info
-
-| | |
-|---|---|
-| 💼 **Role** | Web Developer |
-| 📍 **Location** | Iran 🇮🇷 |
-| 🏢 **Company** | Freelance · Self-Employed |
-| 🎓 **Education** | University of Bonab |
-| 🟢 **Status** | Open to collaboration |
-
-**⚙️ Stack** — React · Next.js · NestJS · Node.js · PostgreSQL  
-**🎯 Focus** — Frontend Architecture · Product Thinking · System Design  
-**🚀 Mission** — Turning ideas into products that solve real problems
 
 ## 🚀 About Me
 
@@ -55,32 +40,21 @@ Every project is an opportunity to improve not only the software itself, but als
 
 ---
 
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+</p>
+
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech stack with animated skill meters" width="100%" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/flow.svg" alt="My workflow pipeline" width="100%" />
+</p>
 
 ## 💼 Experience
 
@@ -91,34 +65,11 @@ Every project is an opportunity to improve not only the software itself, but als
 
 ---
 
-## 🌟 What Drives Me
-
-```
-Understand → Analyze → Design → Build → Deploy → Improve
-```
-
----
-
-## 📊 GitHub Stats
-
-<!-- STATS_START -->
-<p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-<!-- STATS_END -->
-
----
-
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://github.com/sadramaleki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sadramaleki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sadramaleki"><img src="./assets/badge-github.svg" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/sadramaleki"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
 </p>
 
 ---

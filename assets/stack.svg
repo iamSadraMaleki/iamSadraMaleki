@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" role="img" aria-label="Tech stack card for Sadra Maleki">
+  <defs>
+    <linearGradient id="stackBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1b26"/>
+      <stop offset="1" stop-color="#1f2335"/>
+    </linearGradient>
+    <linearGradient id="stackStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="barReact" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61dafb" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#61dafb" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="barNext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c0caf5" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#c0caf5" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="barNest" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0234e" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#e0234e" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="barNode" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ddc84" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#3ddc84" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="barPg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#699eca" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#699eca" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="barTj" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8981d" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#f8981d" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="barSpring" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6db33f" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#6db33f" stop-opacity=".4"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="757" height="397" rx="14" fill="url(#stackBg)"/>
+  <rect x="1.5" y="1.5" width="757" height="397" rx="14" fill="none" stroke="url(#stackStroke)" stroke-width="1.5"/>
+
+  <text x="28" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="bold" fill="#bb9af7">⚙ stack.config — my toolbox</text>
+  <line x1="20" y1="54" x2="740" y2="54" stroke="#2a2e42"/>
+
+  <!-- skill bars: label, years, animated meter -->
+  <g font-family="'Segoe UI',Ubuntu,Sans-Serif" font-size="13.5">
+    <!-- React / Next.js -->
+    <text x="28" y="90" fill="#c0caf5" font-weight="600">React / Next.js</text>
+    <text x="732" y="90" text-anchor="end" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5">daily driver</text>
+    <rect x="28" y="98" width="704" height="9" rx="4.5" fill="#16161e" stroke="#2a2e42"/>
+    <rect x="28" y="98" width="0" height="9" rx="4.5" fill="url(#barReact)">
+      <animate attributeName="width" values="0;630;630" keyTimes="0;.55;1" dur="1.4s" fill="freeze" begin="0.15s"/>
+    </rect>
+
+    <!-- TypeScript / JavaScript -->
+    <text x="28" y="134" fill="#c0caf5" font-weight="600">TypeScript / JavaScript</text>
+    <text x="732" y="134" text-anchor="end" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5">in production</text>
+    <rect x="28" y="142" width="704" height="9" rx="4.5" fill="#16161e" stroke="#2a2e42"/>
+    <rect x="28" y="142" width="0" height="9" rx="4.5" fill="url(#barNext)">
+      <animate attributeName="width" values="0;590;590" keyTimes="0;.55;1" dur="1.4s" fill="freeze" begin="0.3s"/>
+    </rect>
+
+    <!-- NestJS / Node.js -->
+    <text x="28" y="178" fill="#c0caf5" font-weight="600">NestJS / Node.js</text>
+    <text x="732" y="178" text-anchor="end" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5">backend core</text>
+    <rect x="28" y="186" width="704" height="9" rx="4.5" fill="#16161e" stroke="#2a2e42"/>
+    <rect x="28" y="186" width="0" height="9" rx="4.5" fill="url(#barNest)">
+      <animate attributeName="width" values="0;540;540" keyTimes="0;.55;1" dur="1.4s" fill="freeze" begin="0.45s"/>
+    </rect>
+
+    <!-- PostgreSQL -->
+    <text x="28" y="222" fill="#c0caf5" font-weight="600">PostgreSQL</text>
+    <text x="732" y="222" text-anchor="end" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5">data layer</text>
+    <rect x="28" y="230" width="704" height="9" rx="4.5" fill="#16161e" stroke="#2a2e42"/>
+    <rect x="28" y="230" width="0" height="9" rx="4.5" fill="url(#barPg)">
+      <animate attributeName="width" values="0;500;500" keyTimes="0;.55;1" dur="1.4s" fill="freeze" begin="0.6s"/>
+    </rect>
+
+    <!-- Tailwind -->
+    <text x="28" y="258" fill="#c0caf5" font-weight="600">Tailwind CSS</text>
+    <text x="732" y="258" text-anchor="end" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5">styling</text>
+    <rect x="28" y="266" width="704" height="9" rx="4.5" fill="#16161e" stroke="#2a2e42"/>
+    <rect x="28" y="266" width="0" height="9" rx="4.5" fill="url(#barTj)">
+      <animate attributeName="width" values="0;460;460" keyTimes="0;.55;1" dur="1.4s" fill="freeze" begin="0.75s"/>
+    </rect>
+
+    <!-- Java / Spring Boot -->
+    <text x="28" y="294" fill="#c0caf5" font-weight="600">Java / Spring Boot</text>
+    <text x="732" y="294" text-anchor="end" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5">academic · solid</text>
+    <rect x="28" y="302" width="704" height="9" rx="4.5" fill="#16161e" stroke="#2a2e42"/>
+    <rect x="28" y="302" width="0" height="9" rx="4.5" fill="url(#barSpring)">
+      <animate attributeName="width" values="0;410;410" keyTimes="0;.55;1" dur="1.4s" fill="freeze" begin="0.9s"/>
+    </rect>
+  </g>
+
+  <line x1="20" y1="326" x2="740" y2="326" stroke="#2a2e42"/>
+
+  <!-- currently exploring -->
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5">
+    <text x="28" y="354" fill="#565f89">currently learning:</text>
+    <g>
+      <rect x="170" y="338" width="128" height="24" rx="12" fill="#16161e" stroke="#2a2e42"/>
+      <text x="234" y="354" text-anchor="middle" fill="#7dcfff">Docker</text>
+    </g>
+    <g>
+      <rect x="308" y="338" width="128" height="24" rx="12" fill="#16161e" stroke="#2a2e42"/>
+      <text x="372" y="354" text-anchor="middle" fill="#7dcfff">Redis</text>
+    </g>
+    <g>
+      <rect x="446" y="338" width="150" height="24" rx="12" fill="#16161e" stroke="#2a2e42"/>
+      <text x="521" y="354" text-anchor="middle" fill="#7dcfff">System Design</text>
+    </g>
+    <text x="616" y="354" fill="#9ece6a">▸ next up</text>
+  </g>
+
+  <text x="28" y="384" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#565f89">// hand-crafted SVG · zero API calls · renders even when GitHub is rate-limiting everyone</text>
+</svg>

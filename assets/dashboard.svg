@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="GitHub dashboard card for Sadra Maleki">
+  <defs>
+    <linearGradient id="dashBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1b26"/>
+      <stop offset="1" stop-color="#1f2335"/>
+    </linearGradient>
+    <linearGradient id="dashStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity=".5"/>
+    </linearGradient>
+    <radialGradient id="glowGreen" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#9ece6a" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#9ece6a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="757" height="327" rx="14" fill="url(#dashBg)"/>
+  <rect x="1.5" y="1.5" width="757" height="327" rx="14" fill="none" stroke="url(#dashStroke)" stroke-width="1.5"/>
+  <circle cx="640" cy="30" r="90" fill="url(#glowGreen)"/>
+  <circle cx="90" cy="300" r="80" fill="url(#glowPurple)"/>
+
+  <text x="28" y="42" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="bold" fill="#7aa2f7">⌗ system.readout — github</text>
+  <line x1="20" y1="56" x2="740" y2="56" stroke="#2a2e42"/>
+
+  <!-- top row: identity + fun facts -->
+  <g font-family="'Segoe UI',Ubuntu,Sans-Serif" font-size="14" fill="#a9b1d6">
+    <text x="28" y="90" fill="#c0caf5" font-weight="700" font-size="16">Sadra Maleki</text>
+    <text x="28" y="110">Full product builder — frontend &amp; backend</text>
+    <text x="28" y="130" fill="#565f89" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12">@sadramaleki · joined May 2024</text>
+  </g>
+
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5">
+    <g>
+      <rect x="330" y="72" width="196" height="26" rx="13" fill="#16161e" stroke="#2a2e42"/>
+      <circle cx="346" cy="85" r="4" fill="#9ece6a"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="358" y="89" fill="#9ece6a">ships &gt;0 broken builds</text>
+    </g>
+    <g>
+      <rect x="536" y="72" width="204" height="26" rx="13" fill="#16161e" stroke="#2a2e42"/>
+      <circle cx="552" cy="85" r="4" fill="#7dcfff"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+      <text x="564" y="89" fill="#7dcfff"> coffee-driven development</text>
+    </g>
+  </g>
+
+  <!-- metrics -->
+  <g font-family="'Segoe UI',Ubuntu,Sans-Serif">
+    <text x="28" y="170" fill="#565f89" font-size="12" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" letter-spacing="1">KEY METRICS — VIBE INDEX</text>
+
+    <g>
+      <text x="28" y="196" fill="#a9b1d6" font-size="13">Public repos</text>
+      <text x="240" y="196" text-anchor="end" fill="#7aa2f7" font-weight="800" font-size="17">active</text>
+      <rect x="252" y="188" width="478" height="8" rx="4" fill="#16161e" stroke="#2a2e42"/>
+      <rect x="252" y="188" width="0" height="8" rx="4" fill="#7aa2f7">
+        <animate attributeName="width" values="0;380;380" keyTimes="0;.6;1" dur="1.6s" fill="freeze" begin="0.2s"/>
+      </rect>
+    </g>
+    <g>
+      <text x="28" y="224" fill="#a9b1d6" font-size="13">Focus right now</text>
+      <text x="240" y="224" text-anchor="end" fill="#ff9e64" font-weight="800" font-size="17">frontend arch</text>
+      <rect x="252" y="216" width="478" height="8" rx="4" fill="#16161e" stroke="#2a2e42"/>
+      <rect x="252" y="216" width="0" height="8" rx="4" fill="#ff9e64">
+        <animate attributeName="width" values="0;330;330" keyTimes="0;.6;1" dur="1.6s" fill="freeze" begin="0.35s"/>
+      </rect>
+    </g>
+    <g>
+      <text x="28" y="252" fill="#a9b1d6" font-size="13">Ownership</text>
+      <text x="240" y="252" text-anchor="end" fill="#9ece6a" font-weight="800" font-size="17">end-to-end</text>
+      <rect x="252" y="244" width="478" height="8" rx="4" fill="#16161e" stroke="#2a2e42"/>
+      <rect x="252" y="244" width="0" height="8" rx="4" fill="#9ece6a">
+        <animate attributeName="width" values="0;430;430" keyTimes="0;.6;1" dur="1.6s" fill="freeze" begin="0.5s"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- footer chips -->
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12">
+    <rect x="28" y="278" width="118" height="28" rx="8" fill="#16161e" stroke="#2a2e42"/>
+    <text x="87" y="296" text-anchor="middle" fill="#c0caf5">🎓 TA @ Bonab</text>
+    <rect x="156" y="278" width="132" height="28" rx="8" fill="#16161e" stroke="#2a2e42"/>
+    <text x="222" y="296" text-anchor="middle" fill="#c0caf5">🇮🇷 based in Iran</text>
+    <rect x="298" y="278" width="150" height="28" rx="13" fill="none" stroke="#9ece6a" stroke-opacity=".55"/>
+    <text x="373" y="296" text-anchor="middle" fill="#9ece6a">✔ open to work</text>
+    <text x="732" y="296" text-anchor="end" fill="#565f89">uptime: since 2024 · no rate limits were harmed</text>
+  </g>
+</svg>

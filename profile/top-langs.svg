@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="120" viewBox="0 0 500 120" role="img" aria-label="Languages moved">
+  <rect x="1.5" y="1.5" width="497" height="117" rx="12" fill="#1a1b26" stroke="#2a2e42"/>
+  <text x="250" y="52" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#565f89">language stats removed → hand-built instead</text>
+  <text x="250" y="76" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#bb9af7">see README for hand-crafted cards</text>
+</svg>
