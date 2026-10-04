@@ -68,8 +68,8 @@ Every project is an opportunity to improve not only the software itself, but als
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://github.com/sadramaleki"><img src="./assets/badge-github.svg" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/sadramaleki"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="[https://github.com/sadramaleki](https://github.com/iamSadraMaleki)"><img src="./assets/badge-github.svg" alt="GitHub" /></a>
+  <a href="[https://linkedin.com/in/sadramaleki](https://www.linkedin.com/in/sadramaleki/)"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
 </p>
 
 ---
